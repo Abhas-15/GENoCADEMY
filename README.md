@@ -19,23 +19,23 @@ The best part is the student can donate as per their wish to the mentor they lik
 
 # Prerequisites 👨‍💻
 
-### For users:
+## For users:
 Any modern web browser such as Chrome, Firfox, Brave ,Edge etc.
 
 
 ### Test student id:
-##### email:test@student.com  
-##### password:123456  
-##### name:Joe Bloggs
+###### email:test@student.com  
+###### password:123456  
+###### name:Joe Bloggs
 ### Test mentor id:
-##### email:test@mentor.com  
-##### password:123456 
-##### name:John Smith
+###### email:test@mentor.com  
+###### password:123456 
+###### name:John Smith
 
 
-### For developers:
+## For developers:
 
-#### Getting Started
+### Getting Started
 To setup the project locally follow the steps
 
 ### Prerequisites
@@ -55,22 +55,22 @@ Setup firebase and chatengine and add the following API key by creating a .env f
 
 
 
-#### Firebaseapp
+### Firebaseapp
 
 
- REACT_APP_API_KEY=
- REACT_APP_authDomain=
- REACT_APP_projectId=
- REACT_APP_storageBucket= study-hack-5eadd.appspot.com
- REACT_APP_messagingSenderId= 
- REACT_APP_appId= 
+###### REACT_APP_API_KEY=
+###### REACT_APP_authDomain=
+###### REACT_APP_projectId=
+###### REACT_APP_storageBucket= study-hack-5eadd.appspot.com
+###### REACT_APP_messagingSenderId= 
+###### REACT_APP_appId= 
 
-#### Chatengine
+### Chatengine
 
- REACT_APP_CHAT_ENGINE_PROJECT_ID = 
- REACT_APP_CHAT_ENGINE_PRIVATE_KEY = 
+###### REACT_APP_CHAT_ENGINE_PROJECT_ID = 
+###### REACT_APP_CHAT_ENGINE_PRIVATE_KEY = 
 
- Yarn start
+###### Yarn start
 
 
 ## How we built it? 🧑‍💻
